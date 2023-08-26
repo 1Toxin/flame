@@ -1,0 +1,9 @@
+local id = game.PlaceId
+
+local supported = { 9865958871 }
+
+if table.find(supported, id) then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/1Toxin/flame/'..id))()
+else
+  game.Players.LocalPlayer:Kick("🔥 Flame | Invalid Game")
+end
