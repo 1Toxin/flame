@@ -1,6 +1,6 @@
 local id = game.PlaceId
 
-local supported = { 9865958871 }
+local supported = { 9865958871, 13127800756 }
 
 if table.find(supported, id) then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/1Toxin/flame/main/'..id))()
