@@ -1,5 +1,9 @@
 # Flame Hub
 ### The #1 AWS Script & #1 Big Paintball 2 Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1Toxin/flame/main/loader"))()
+```
+
 ## Supported Games:
 + Big Paintball 2 / 9865958871
 + Arm Wrestle Simulator / 12355337193
