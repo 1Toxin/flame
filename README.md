@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/1Toxin/flame/main/loa
 
 ## Supported Games:
 + Big Paintball 2 / 9865958871
-+ Arm Wrestle Simulator / 12355337193
++ Arm Wrestle Simulator / 13127800756
 + Murderers VS Sheriffs Duels / 12355337193
 + Base Battles / 5326405001
 + Realistic Hood Testing / 12673840215
