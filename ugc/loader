@@ -1,1 +1,9 @@
-Uhh
+local id = game.PlaceId
+
+local supported = { 13421111002 }
+
+if table.find(supported, id) then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/1Toxin/flame/main/ugc/'..id))()
+else
+  game.Players.LocalPlayer:Kick("🔥 Flame | Invalid Game, join the Discord to suggest more games! discord.gg/flamehub")
+end
